@@ -125,9 +125,7 @@ namespace TechJobsConsole
                 Console.WriteLine("No jobs match your search.");
             }
             else
-            {
-                //someJobs.Sort();
-                
+            { 
                 foreach (Dictionary<string, string> job in someJobs)
                 {
                     Console.WriteLine("\n*****");
