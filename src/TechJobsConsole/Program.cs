@@ -7,6 +7,7 @@ namespace TechJobsConsole
     {
         static void Main(string[] args)
         {
+            
             // Create two Dictionary vars to hold info for menu and data
 
             // Top-level menu options
